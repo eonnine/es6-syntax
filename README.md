@@ -1,2 +1,2 @@
 # es6-syntax
-Organize es6-syntax
+Write es6-syntax
